@@ -1,16 +1,18 @@
-## Hi there 👋
+# Varun Bhadurgatte Nagaraj
 
-<!--
-**varun-b-nagaraj/varun-b-nagaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer and robotics developer focused on building scalable systems across AI, simulation, automation, and developer infrastructure. My work combines full-stack engineering, robotics, and applied AI with an emphasis on performance, usability, and real-world impact.
 
-Here are some ideas to get you started:
+Currently working on robotics simulation platforms, AI-native workflow systems, autonomous robotics software, and quantum computing research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+Python • TypeScript • React • Flask • Supabase • PostgreSQL • C++ • Java • Qiskit
+
+## Interests
+
+AI Systems • Robotics • Simulation Infrastructure • Developer Tooling • Quantum Computing
+
+## Contact
+
+Austin, Texas
+[varunnagaraj2009@gmail.com](mailto:varunnagaraj2009@gmail.com)
